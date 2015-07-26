@@ -1,0 +1,16 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\bin\Debug\SpaceInvad.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\bin\Debug\SpaceInvad.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\obj\x86\Debug\SpaceInvad.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\obj\x86\Debug\SpaceInvad.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\obj\x86\Debug\SpaceInvad.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\bin\Debug\Interop.WMPLib.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\bin\Debug\AxInterop.WMPLib.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\obj\x86\Debug\Interop.WMPLib.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\obj\x86\Debug\AxInterop.WMPLib.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\obj\x86\Debug\SpaceInvad.csproj.ResolveComReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\obj\x86\Debug\SpaceInvad.frmGame.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\obj\x86\Debug\SpaceInvad.frmDebug.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SpaceInvad\SpaceInvad\obj\x86\Debug\SpaceInvad.frmStart.resources
